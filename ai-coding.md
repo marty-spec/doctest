@@ -7,9 +7,8 @@ We would like to achieve 10x productivity while still maintaing target quality o
 
 We are in the early stage of figuring out what is right for us, some practices we will standardize on, others will be recomendations, and many others will be personal preferences when they largely only affect a single person.
 
-People should experiment and share what is working for them and what is not, and then we can reflect them into the doc.
+We should experiment and share what is working and what is not, and then we can reflect them into the doc.
 
-The goals
 Key practices
 --
 1. **This is NOT vibe coding** — Understand every line of code. The output quality should be the same as manual development, just 10x faster.
